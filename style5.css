@@ -222,3 +222,12 @@ a.article, a.article:hover {
     }
 
 }
+
+/* amani style */
+#amani{
+    color: rgb(221, 245, 11) !important;
+}
+
+#amani_email{
+    color: rgb(97, 248, 105) !important;
+}
